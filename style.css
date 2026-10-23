@@ -221,7 +221,7 @@ nav a.active {
 
 .hero-card {
   min-height: 320px;
-  padding: 18px;
+  padding: 8px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -245,8 +245,8 @@ nav a.active {
 }
 
 .emblem {
-  width: 160px;
-  height: 160px;
+  width: 180px;
+  height: 180px;
   margin: 20px auto;
   display: grid;
   place-items: center;
