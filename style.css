@@ -295,6 +295,19 @@ h2 {
   font-size: 12px;
 }
 
+.namoyish-rasmi {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.namoyish-rasmi:hover {
+    transform: scale(1.03);
+}
+
+
 /* PANELS */
 
 .panel {
